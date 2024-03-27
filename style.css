@@ -94,16 +94,12 @@ link{
       color: rgb(0, 0, 0);
    
 
-    }
-    row{
-      padding: 10px;
-      margin:10px;
-    }
-
+  
+}
 
     img{
-      width:"100px";
-      height:"100px";
+      width:100px;
+      height:100px;
     }
 
     link{
